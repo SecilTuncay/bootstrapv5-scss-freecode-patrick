@@ -4,5 +4,6 @@ npm install --save-dev sass
 npm install bootstrap --save
 npm install --save @fortawesome/fontawesome-free
 npm install postcss postcss-cli autoprefixer --save
+npm install glightbox
 npm run compile:sass
 */
